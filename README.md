@@ -1,4 +1,4 @@
-# Body-Language-Detection-
+# Body-Language-Detection
 A Body Language Detection Using MediaPipe and Machine Learning Deployed using Flask Framework.
 
 * The Main objectives are body detection, a skeletal representation, body language features extraction, and finally, emotion detection based on these features.
